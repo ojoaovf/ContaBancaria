@@ -2,7 +2,7 @@
 Nesta atividade, utilizamos a ferramenta "Cucumber" para apresentar cenários de clientes, explicando suas preferências para o software.
 
 ## Pre-requisitos 
-Antes de começar, é importante garantir que o ambiente JAVA esteja configurado e o plugin do Cucumber esteja instalado. A configuração do ambiente varia de acordo com o IDE utilizado. No caso do "Intellij IDE", a configuração é bastante simples e envolve adicionar as seguintes linhas ao arquivo pom.xml:
+É importante garantir que o ambiente JAVA esteja configurado e o plugin do Cucumber esteja instalado. A configuração do ambiente varia de acordo com o IDE utilizado.
 
 ## clientes Especiais:
 
